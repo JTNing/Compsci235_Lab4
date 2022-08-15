@@ -1,0 +1,38 @@
+body {
+        background-color: #F5EDD8;
+        font-family: sans-serif;
+        text-align: justify;
+    }
+h1,h2{
+   background-color: #014084;
+   color: white;
+    font-variant: small-caps;
+    text-align: center;
+    }
+table,tr,td{
+      border: 2px solid #014084;
+    }
+a{
+    color: blue;
+   }
+img{
+    width: 100px;
+    height: 100px;
+}
+#image{
+    text-align: center;
+    }
+#motto{
+    font-weight: bold;
+    font-style: italic;
+   }
+#tableheader{
+    background-color: #014084;
+    font-size: large;
+    color: white;
+    text-align: center;
+    }
+.tablecontent{
+    background-color: white;
+    font-size: large;
+    }
